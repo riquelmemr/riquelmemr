@@ -12,8 +12,8 @@
 
  - 👨‍💻 Hoje trabalho como Assistente de Produto Web na Arezzo&CO.
  - 🙋‍♂️ Tenho 17 anos de idade.
- - 💻 Atualmente estudo programação em algumas plataformas EAD.
- - 🚀 E busco seguir minha carreira profissional na área da tecnologia.
+ - 💻 Atualmente estudo programação em plataformas EAD.
+ - 🚀 Busco seguir minha carreira profissional na área de tecnologia.
  
  <br>
 
