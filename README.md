@@ -15,7 +15,7 @@
  - 💻 Atualmente estudo programação em plataformas EAD.
  - 🚀 Busco seguir minha carreira profissional na área de tecnologia.
  
- <br>
+ <br/>
 
 <div align="center">
   <a href="https://github.com/riquelmemr">
