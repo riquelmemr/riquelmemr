@@ -8,7 +8,7 @@
  <a href="https://www.linkedin.com/in/riquelme-maia-rodrigues-581633226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<br>
+<br/>
 
  - 👨‍💻 Hoje trabalho como Assistente de Produto Web na Arezzo&CO.
  - 🙋‍♂️ Tenho 17 anos de idade.
