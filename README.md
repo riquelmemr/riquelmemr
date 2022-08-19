@@ -1,4 +1,4 @@
-### Olá! Me chamo Riquelme 😉
+### Olá! Me chamo Riquelme 👋
 
 ##
 
