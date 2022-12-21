@@ -13,7 +13,8 @@
  - 👨‍💻 Hoje trabalho como Assistente de Produto Web em ZZ MALL | Arezzo&CO.
  - 🙋‍♂️ Tenho 17 anos de idade.
  - 💻 Atualmente em formação pelo Curso de Desenvolvimento Full Stack | Growdev
- - 🚀 Busco seguir minha carreira profissional na área de tecnologia.
+ - 🚀 Linguagem de Programação favorita: JavaScript.
+ - ⌚ Gosto de estudar/desenvolver nas horas vagas.
  
  <br/>
 
