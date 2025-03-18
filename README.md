@@ -10,9 +10,9 @@
 
 <br/>
 
- - 👨‍💻 Hoje trabalho como Analista de Produto em ZZ MALL | Arezzo&CO.
+ - 👨‍💻 Hoje trabalho como Analista de Operações e Suporte | Arezzo&CO.
  - 💻 Formado em Desenvolvimento Web Full Stack | Growdev
- - 🚀 Linguagem de Programação favorita: TypeScript.
+ - 🚀 Linguagem de Programação favorita: Java.
  - ⌚ Gosto de estudar/desenvolver nas horas vagas.
  
  <br/>
