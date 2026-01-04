@@ -10,8 +10,9 @@
 
 <br/>
 
- - 👨‍💻 Hoje trabalho como Analista de Operações e Suporte | Arezzo&CO.
+ - 👨‍💻 Hoje trabalho como Desenvolvedor Back End Java | Arezzo&CO.
  - 💻 Formado em Desenvolvimento Web Full Stack | Growdev
+ - 💻 Graduando em Ciências da Computação | Unisinos
  - 🚀 Linguagem de Programação favorita: Java.
  - ⌚ Gosto de estudar/desenvolver nas horas vagas.
  
