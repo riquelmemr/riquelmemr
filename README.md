@@ -10,7 +10,7 @@
 
 <br/>
 
- - 👨‍💻 Hoje trabalho como Desenvolvedor Back End Java | Arezzo&CO.
+ - 👨‍💻 Hoje trabalho como Desenvolvedor Backend Java | Arezzo&CO.
  - 💻 Formado em Desenvolvimento Web Full Stack | Growdev
  - 💻 Graduando em Ciências da Computação | Unisinos
  - 🚀 Linguagem de Programação favorita: Java.
