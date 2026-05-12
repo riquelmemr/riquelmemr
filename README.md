@@ -43,6 +43,7 @@ public class Riquelme {
     String role = "Backend Java Developer";
 
     String[] passions = {
+        "Java",
         "Microsserviços",
         "Cloud",
         "Arquitetura",
